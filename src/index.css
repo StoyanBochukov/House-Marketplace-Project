@@ -330,6 +330,20 @@ button {
   width: 100%;
   height: 100%;
 }
+.swiperSlideWrapper{
+  width: 100%;
+  height: 600px;  
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.swiperSlideExplore{
+  width: 100%;
+  height: 400px;  
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
 
 .swiperSlideImg {
   width: 100%;
